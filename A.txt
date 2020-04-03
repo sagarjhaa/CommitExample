@@ -1,7 +1,7 @@
-Line 1
-Line 2 edited by A
-Line 3
-Line 4 added by A
-Line 5 added by A
-Line 6 Added by A
-line 7 by local master
+Delete by B
+Line 2
+Line 3 Delete by B
+Line 4 Added by B
+Line 5 Added by B
+Line 6 By B
+
