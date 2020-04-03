@@ -1,5 +1,7 @@
 Delete by B
 Line 2
-Line 3
+Line 3 Delete by B
 Line 4 Added by B
 Line 5 Added by B
+Line 6 By B
+
