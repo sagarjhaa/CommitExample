@@ -1,2 +1,2 @@
 File B from master branch.
-M1.
+Line 1 added by master.
